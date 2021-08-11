@@ -5,7 +5,7 @@ import UseState from "./components/hooks/UseState";
 const App = () => {
   return (
     <div>
-      <UseState />
+      <Resturant />
     </div>
   );
 };
